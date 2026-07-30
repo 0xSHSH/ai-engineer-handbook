@@ -50,7 +50,11 @@ ai-engineer-handbook/
 │   │   ├─ coding_assistant_example.md
 │   │   └─ ... (more examples)
 │   ├─ 10_faq.md
-│   └─ 11_resources.md
+│   ├─ 11_resources.md
+│   └─ interviews/            # AI Engineer Interview Handbook
+│       ├─ README.md
+│       ├─ 01_resume_preparation.md
+│       └─ 02_hr_behavioral.md
 ├─ diagrams/                 # Mermaid diagrams (included via markdown)
 │   └─ architecture.mmd
 └─ .github/                  # CI / contribution helpers
@@ -78,6 +82,7 @@ ai-engineer-handbook/
 | **9️⃣ Examples** | `docs/09_examples/` | Full‑featured code snippets (Python, Java, JavaScript, FastAPI, React) for each major concept |
 | **🔟 FAQ** | `docs/10_faq.md` | 100+ practical Q&A |
 | **📚 Resources** | `docs/11_resources.md` | Curated books, papers, courses, repos, YouTube channels |
+| **🎤 Interview Handbook** | `docs/interviews/` | Resume/ATS optimization, GitHub/LinkedIn/portfolio, STAR method, behavioral question bank with model answers |
 
 ---
 
