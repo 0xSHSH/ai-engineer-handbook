@@ -1,0 +1,9 @@
+```mermaid
+flowchart LR
+    A[Raw Text Input] --> B[Tokenizer]
+    B --> C[Embedding Layer]
+    C --> D[Transformer Encoder (self‑attention)]
+    D --> E[Transformer Decoder (auto‑regressive)]
+    E --> F[Detokenizer]
+    F --> G[Generated Text Output]
+```
